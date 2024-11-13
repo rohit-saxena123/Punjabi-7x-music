@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049622601577",
+    "project_id": "punjabi-music-62d31",
+    "storage_bucket": "punjabi-music-62d31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049622601577:android:ad0d20bc31d91cc86f67f8",
+        "android_client_info": {
+          "package_name": "com.punjab.punjabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNWtU6vL0v6AmzCrBMzxeNlPXKq4JBeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
